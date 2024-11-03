@@ -1,0 +1,2 @@
+# fast-cloudflare
+一键获取cloudflare最优ip并保存到hosts，解决官网人机认证无法打开，cdn文件超时和带宽小等问题
