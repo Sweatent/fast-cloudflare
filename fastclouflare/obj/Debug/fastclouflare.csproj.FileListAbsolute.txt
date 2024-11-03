@@ -1,0 +1,10 @@
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\bin\Debug\fastclouflare.exe.config
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\bin\Debug\fastclouflare.exe
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\bin\Debug\fastclouflare.pdb
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.csproj.AssemblyReference.cache
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.Properties.Resources.resources
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.csproj.GenerateResource.cache
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.csproj.CoreCompileInputs.cache
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.exe
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.pdb
+C:\Users\jmxbw\source\repos\fastclouflare\fastclouflare\obj\Debug\fastclouflare.fastcf.resources
